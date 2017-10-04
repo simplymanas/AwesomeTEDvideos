@@ -17,7 +17,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 
 
-##Contributor
+## Contributor
 
 Sundar Sivarama
+
 Manas Dash
