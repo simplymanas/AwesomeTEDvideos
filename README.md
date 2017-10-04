@@ -1,5 +1,5 @@
-# AwesomeTEDvideos
-Place to get a list of awesome TED videos which are really inspiring
+# Awesome TED Videos
+Place to get a list of awesome TED videos which are really inspiring.
 
 
 # Official TED video channel
@@ -17,8 +17,8 @@ https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q
 
 # Awesome List
 
-## 1
-[How a handful of tech companies control billions of minds every day | Tristan Harris](https://youtu.be/C74amJRp730)
+
+* [How a handful of tech companies control billions of minds every day | Tristan Harris](https://youtu.be/C74amJRp730)
 
 
 
