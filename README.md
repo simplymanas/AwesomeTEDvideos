@@ -14,8 +14,9 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [How a handful of tech companies control billions of minds every day | Tristan Harris](https://youtu.be/C74amJRp730)
 
+* [How to speak so that people want to listen | Julian Treasure](https://www.youtube.com/watch?v=eIho2S0ZahI&vl=en)
 
-
+* [5 ways to listen better | Julian Treasure](https://www.youtube.com/watch?v=cSohjlYQI2A)
 
 ## Contributor
 
