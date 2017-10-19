@@ -18,6 +18,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [5 ways to listen better | Julian Treasure](https://www.youtube.com/watch?v=cSohjlYQI2A)
 
+* [10 funniest TED Talks](https://www.youtube.com/playlist?list=PL0nKakcqb4tRMwpoDZOEVyt_p-QZrKIpC)
+
 ## Contributor
 
 Sundar Sivarama
