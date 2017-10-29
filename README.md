@@ -24,6 +24,15 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [10 funniest TED Talks](https://www.youtube.com/playlist?list=PL0nKakcqb4tRMwpoDZOEVyt_p-QZrKIpC)
 
+* [Looks aren't everything. Believe me, I'm a model. | Cameron Russell](https://www.youtube.com/watch?v=KM4Xe6Dlp0Y)
+
+* [Your body language may shape who you are | Amy Cuddy](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
+
+* [Do schools kill creativity? | Sir Ken Robinson](https://www.youtube.com/watch?v=iG9CE55wbtY)
+
+
+
+
 ## Contributor
 
 Sundar Sivarama
