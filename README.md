@@ -30,7 +30,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [Do schools kill creativity? | Sir Ken Robinson](https://www.youtube.com/watch?v=iG9CE55wbtY)
 
-
+* [How to run a company with (almost) no rules | Ricardo Semler](https://www.ted.com/talks/ricardo_semler_how_to_run_a_company_with_almost_no_rules)
+>>Speaker : [Ricardo Semler](https://en.wikipedia.org/wiki/Ricardo_Semler) - Brazilian entrepreneur & author of [Maverick](https://en.wikipedia.org/wiki/Maverick_(book)) & [The Seven-Day Weekend](https://en.wikipedia.org/wiki/The_Seven-Day_Weekend_(book))!
 
 
 ## Contributor
