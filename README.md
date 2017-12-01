@@ -11,6 +11,7 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 ### [Official TED youtube channel](https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug)
 
 ### [Official TEDx Talks youtube channel](https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q)
+### [Offocial Most Popular List](https://www.ted.com/playlists/171/the_most_popular_talks_of_all)
 
 
 ## Awesome List
