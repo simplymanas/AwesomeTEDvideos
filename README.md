@@ -36,6 +36,7 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
   * [Maverick](https://en.wikipedia.org/wiki/Maverick_(book))
   * [The Seven-Day Weekend](https://en.wikipedia.org/wiki/The_Seven-Day_Weekend_(book))!
 
+* [What makes a life worth living?"](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
 
 ## Contributor
 
