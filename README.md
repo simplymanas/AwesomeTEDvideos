@@ -38,6 +38,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [What makes a life worth living?"](https://www.ted.com/talks/mihaly_csikszentmihalyi_on_flow)
 
+* [decision making](https://youtu.be/nisSeC81u2M)
+
 ## Contributor
 
 Sundar Sivarama
