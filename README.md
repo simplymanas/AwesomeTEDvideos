@@ -2,6 +2,11 @@
 awesome : TED Videos
 ---
 
+
+![TED](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/TED_three_letter_logo.svg/2000px-TED_three_letter_logo.svg.png)
+
+https://www.ted.com/
+
 # Awesome TED Videos
 Place to get a list of awesome TED videos which are really inspiring. There might be antoher which you got inspired , but this is our list of awesome videos from TED conferences.
 
