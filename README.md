@@ -44,6 +44,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [decision making](https://youtu.be/nisSeC81u2M)
 
+* [The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
+
 ## Contributor
 
 Sundar Sivarama
