@@ -46,6 +46,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
 
+* [The surprising habit of original thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?rid=72cgob5iqyjS#t-912682)
+
 ## Contributor
 
 Sundar Sivarama
