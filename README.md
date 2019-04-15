@@ -48,6 +48,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [The surprising habit of original thinkers](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers?rid=72cgob5iqyjS#t-912682)
 
+* [Secret to success is setting right goals](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals)
+
 ## Contributor
 
 Sundar Sivarama
