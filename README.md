@@ -50,6 +50,10 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [Secret to success is setting right goals](https://www.ted.com/talks/john_doerr_why_the_secret_to_success_is_setting_the_right_goals)
 
+
+* [Quantum computing explained in 10 minutes | Shohini Ghose]
+(https://www.youtube.com/watch?v=QuR969uMICM)
+
 ## Contributor
 
 Sundar Sivarama
