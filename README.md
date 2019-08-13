@@ -53,6 +53,8 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 
 * [Quantum computing explained in 10 minutes by Shohini Ghose](https://www.youtube.com/watch?v=QuR969uMICM)
 
+* [Talks to restore your faith in humanity](https://www.ted.com/playlists/216/talks_to_restore_your_faith_in_1%20?utm_campaign=social&utm_medium=referral&utm_source=linkedin.com&utm_content=playlist&utm_term=humanities)
+
 ## Contributor
 
 Sundar Sivarama
