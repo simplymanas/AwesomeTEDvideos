@@ -56,6 +56,7 @@ Place to get a list of awesome TED videos which are really inspiring. There migh
 * [Talks to restore your faith in humanity](https://www.ted.com/playlists/216/talks_to_restore_your_faith_in_1%20?utm_campaign=social&utm_medium=referral&utm_source=linkedin.com&utm_content=playlist&utm_term=humanities)
 
 * [Code, Crime, Complexity: Analyzing software with forensic psychology | Adam Tornhill | TEDxTrondheim](https://www.youtube.com/watch?v=qJ_hplxTYJw)
+* [The Art of Storytelling in the News World | Palki Sharma Upadhyay | TEDxMICA](https://www.youtube.com/watch?v=JwHCOI8V4LQ)
 
 ## some of the other videos (not from TED)
 https://youtu.be/KjgvffBlWAg
